@@ -1,4 +1,4 @@
-###es-theme-nns
+### es-theme-nns
   
 ![Main screen](https://github.com/porcinus/es-theme-nns/blob/master/screenshot-01.png) 
 ![List with cover](https://github.com/porcinus/es-theme-nns/blob/master/screenshot-02.png) 
